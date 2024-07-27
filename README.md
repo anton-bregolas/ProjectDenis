@@ -21,7 +21,8 @@ Section Name | Description |
 | **#Explore** | Explore Tracklist, Tunelist and list of Collections presented in interactive table format |
 | **#Discover** | Discover sources & tools used in #ProjectDenis tune research and identification process |
 
-NB: This is the Client version of the app. For Toolkit version with Tune DB tools and complete version history see [#ProjectDenis Toolkit](https://github.com/anton-bregolas/ProjectDenisToolkit).
+NB: This is the Stable Demo version of the app. For all the latest updates see [#ProjectDenis @anton-bregolas](https://github.com/anton-bregolas/ProjectDenis). 
+For Toolkit version with Tune DB tools and complete version history see [#ProjectDenis Toolkit](https://github.com/anton-bregolas/ProjectDenisToolkit).
 
 ## Version History
 
